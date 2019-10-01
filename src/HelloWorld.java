@@ -5,11 +5,12 @@
 //Date: 09/29/2019
 // The problem that this program solves, is that there is no
 // Hello World! being printed. This program prints Hello World!
+
 public class HelloWorld {
-	//Do not want a return, and using a string as an argument
-	public static void main(String[] args) {
-		//Print out Hello World
-		System.out.println("Hello World!");
+	
+	public static void main(String[] args) {//Do not want a return, and using a string as an argument
+		
+		System.out.println("Hello World!");//Print out Hello World
 
 	}
 
